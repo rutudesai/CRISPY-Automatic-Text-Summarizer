@@ -29,5 +29,6 @@ from the early 21st century.
 
 FLOW OF WORK :
 
+![image](https://user-images.githubusercontent.com/43644740/215734628-9d3e03e3-11ac-4b0b-94de-bfdb9b0d27a3.png)
 
 
